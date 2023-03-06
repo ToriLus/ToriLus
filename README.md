@@ -23,7 +23,9 @@ if (You.includes("currently hiring a junior developer") {
 - [ ] Get an amazing job! 
 
 
-[![Foo](https://user-images.githubusercontent.com/84199746/223161342-b9d7a2d8-b33b-45d6-8f0a-8dc83cb1acad.png)](https://www.linkedin.com/in/wiktoria-luszczek-b03a67105/))
+
+
+
 
 
 ---
@@ -38,9 +40,8 @@ if (You.includes("currently hiring a junior developer") {
  
  
  
+ ****
  
  
- 
+ [![Linkedin link](https://img.icons8.com/nolan/64/linkedin-circled.png)](https://www.linkedin.com/in/wiktoria-luszczek-b03a67105/)
 
- 
- ![nyan cat](https://miro.medium.com/v2/resize:fit:952/1*OAXivevUVDA6ddtq-7jwVw.gif)
