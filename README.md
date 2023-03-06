@@ -23,23 +23,6 @@ if (You.includes("currently hiring a junior developer") {
 - [ ] Get an amazing job! 
 
 
-
-
-
-
-
----
-
-
- Things I like   |   Things I want to try
- -----   |   -----
- badly made introductions |   a nicer table
- learning   |   C# & unity
- 
- 
- 
- 
- 
  ****
  
  
