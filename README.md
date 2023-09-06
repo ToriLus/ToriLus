@@ -15,12 +15,8 @@ if (You.includes("currently hiring a junior developer") {
 
 
 
-#### Current goals
-- [x] Learn HTML & CSS
-- [x] Learn Javascript
-- [x] Make my own projects
-- [x] Graduate Spiced Academy
-- [ ] Get an amazing job! 
+#### Currently learning: 
+typescript 
 
 
  ****
